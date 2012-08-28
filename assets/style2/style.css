@@ -1,0 +1,152 @@
+body{
+  background-color:#000;
+  color:#999;
+}
+#outer_wrapper{
+  background: url('outer_bg.jpg') no-repeat top center;
+}
+.widgets{
+	background: url('widgets.png') no-repeat ;
+}
+.buttons{
+	background: url('buttons.png') no-repeat;
+}
+#footer_wrapper{
+  background: url('footer_bg.jpg') no-repeat top center;
+}
+/*------------------- Font Color --------------------*/
+a,
+#header .logo_wrapper .site_name,
+#header .nav li a,
+#header .cart_status a span,
+#footer .nav a,
+#sidebar1 .account .logged_in h2,
+#sidebar1 #nav-left a,
+#frontpage #collection .topic1,
+#collection .topic1 span{
+  color:#fff;
+}
+#header .nav2 li a,
+#header .nav li a:hover,
+#page .padding,
+#product .padding,
+#cart .items .name a,
+#blog .padding .details a,
+#header .nav2 li a:hover,
+#sidebar1 #nav-left a:hover,
+#sidebar1 .account .logged_in li,
+#sidebar1 .account fieldset .signup,
+#product .details p a:hover,
+#discussion .padding .title,
+#discussion .padding .count,
+#discussion .padding .date,
+#cart .items th,
+#collection .subcategory a,
+#sidebar1 .account .logged_in li a:hover,
+#product .topic1 a,
+#page .topic1,
+#cart .topic1,
+#blog .topic1,
+#article .topic1,
+#discussion .topic1,
+#collection .subcategory a:hover{
+	color:#000;
+}
+#discussion .padding .listing a,
+#discussion .page .padding .topic2,
+#discussion .page .padding .body,
+#discussion #comments .topic3,
+#discussion #comments .padding .cb,
+#discussion #comments li .meta .body,
+#article .padding,
+#discussion #create_thread .message{
+	color:#333;	
+}
+#page .padding a,
+#product .padding a,
+#cart .padding,
+#cart .padding .line_price,
+#blog .padding,
+#product .details p a,
+#discussion .breadcrumb a,
+#sidebar1 .account fieldset .signup:hover{
+	color:#888;
+}
+#footer .copyright a,
+#footer .copyright a:hover,
+#sidebar1 .stats dd,
+#article .padding .author{
+	color:#c3c3c3;
+}
+#cart .padding .fl a,
+#discussion #create_thread .message a{
+	color:#AAA3A3;
+}
+a:hover,
+#header .cart_status a:hover span,
+#header .cart_status a:hover span strong,
+#footer .nav a:hover,
+#create_comment .message a,
+#discussion .breadcrumb a:hover,
+#discussion #create_thread .message a:hover,
+#page .padding a:hover,
+#cart .items .name a:hover,
+#blog .padding .details a:hover,
+#discussion .padding .listing a:hover,
+#blog .padding .excerpt a{
+  color:#d0d000;
+}
+#header .logo_wrapper .site_slogan,
+#frontpage .page .topic1,
+#frontpage .page2 .topic1,
+.page2 .padding .grid .price,
+#collection .toppic{
+  color:#ffff00;
+}
+
+#sidebar1 .account .topic1,
+#sidebar1 .nav-left h2,
+#sidebar1 .socials_wrapper h2,
+#cart .padding .fl a:hover{
+	color:#000;
+}
+
+/*------------------- Background Color --------------------*/
+#header .nav{
+  background-color:#000;
+}
+#header .nav li a:hover,
+#header .nav2 li a:hover,
+#sidebar1 .account fieldset .signup:hover,
+#collection .subcategory a:hover{
+  background-color:#fff;
+}
+#header .nav2,
+#sidebar1 .account fieldset .signup,
+#collection .subcategory a,
+#sidebar1 #nav-left a:hover,
+#sidebar1 .account .logged_in li a:hover,
+#discussion .listing th,
+#cart .items th,
+#sidebar1 .account .topic1,
+#sidebar1 .nav-left h2,
+#sidebar1 .socials_wrapper{
+  background-color:#ffff00;  
+}
+#comments li .meta,
+#discussion .listing .hover{
+  background-color:whitesmoke;
+}
+/*------------------- Border Color --------------------*/
+#nav-left .nav-left li,
+#frontpage .column li{
+  border-bottom:1px dotted #c3c3c3;  
+}
+#comments li .meta{
+  border:1px dotted #d0d000;
+}
+#discussion .listing td,
+#cart .items td,
+#blog li{
+	border-bottom:1px dotted #d0d000;
+}
