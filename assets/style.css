@@ -324,26 +324,27 @@ form .hint_area {
 #header .logo_wrapper,
 #header .logo {
 	width:355px;
-  height: 65px;
+  height: 95px;
 }
 #header .logo_wrapper {
 	position:absolute;
   z-index: 10;
   overflow: hidden;
-	top:30px;
+	top:10px;
   left:0px;
 }
 #header .logo_wrapper a{
 	text-decoration:none;
 }
 #header .logo_wrapper .logo {
-  background: no-repeat left top;
+  background: no-repeat center center;
 	display:block;
 }
 #header .logo_wrapper .site_name {
 	width:350px;
 	height:45px;
   display:block;
+  margin: 20px 0 0 0;
 	font-size:2.9em;
 	line-height:1em;
 	overflow:hidden;
@@ -1413,15 +1414,18 @@ form .hint_area {
 }
 #product .extra_images li {
 	float:left;
-	margin: 0 8px 0 0;
+	margin: 0;
 }
 #product .extra_images li span {
 	display: block;	
 	width:50px;
 	height:50px;
 	background: #fff no-repeat center center;
-	margin: 0 10px 10px 0;
+	margin: 0 11px 10px 0;
 	border: 1px solid #eaeaea;
+}
+#product .extra_images .last span {
+  margin: 0 0px 10px 0;
 }
 #product .buy {
 	margin:0 0 0 5px;
