@@ -150,3 +150,20 @@ a:hover,
 #blog li{
 	border-bottom:1px dotted #d0d000;
 }
+#pagination .total {
+  color: #ffff00;  
+}
+#pagination .current {
+  background-color: #ffff00;
+  border: 1px solid #ffff00;
+  color:#000;
+}
+#pagination a {
+	color: #fff;
+	text-decoration: none;
+  border: 1px solid #ffff00;
+  background-color: #000000;
+}
+#pagination a:hover {
+  color: #ffff00;
+}

@@ -1066,7 +1066,6 @@ form .hint_area {
 #pagination .total {
 	text-align: left;
 	padding-right: 15px;
-	color:#643F09;
 }
 #pagination .pages {
 	text-align: left;
@@ -1079,21 +1078,6 @@ form .hint_area {
 #pagination .current,
 #pagination a {
   padding: 0.2em 0.5em;
-	border: 1px solid #EFE1BD;
-}
-#pagination .current {
-  background-color: #643F09;
-  border: 1px solid #fff;
-  color:#fff;
-}
-#pagination a {
-	color: #808080;
-	text-decoration: none;
-  background-color: #fff;
-}
-#pagination a:hover {
-  color: #927532;
-  border: 1px solid #927532;
 }
 #pagination .disabled,
 #pagination .hidden{

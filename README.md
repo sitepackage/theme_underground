@@ -4,6 +4,9 @@ Underground Theme
 Changes
 -------------
 2012-10-29
+- แก้ไขสีของ pagination
+
+2012-10-29
 - ตรวจสอบขนาดของ Logo
 - ปรับขนาดภาพ thumbnail ใต้รูปใหญ่หน้า product.tt
 - เพิ่ม class=last ในส่วนของ thumbnail
